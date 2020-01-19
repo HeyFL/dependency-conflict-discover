@@ -4,5 +4,5 @@
 # 相关文档：
 
 [1. 规则使用文档](http://www.mojohaus.org/extra-enforcer-rules/banDuplicateClasses.html)  
-[2. 插件文档](http://maven.apache.org/guides/mini/guide-configuring-plugins.html)
+[2. 插件文档](https://maven.apache.org/enforcer/maven-enforcer-plugin/usage.html)
 
